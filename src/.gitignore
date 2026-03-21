@@ -1,0 +1,10 @@
+# Compilados do Java
+*.class
+
+# Pastas da IDE
+.idea/
+*.iml
+out/
+
+# Logs e arquivos temporários
+*.log
